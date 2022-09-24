@@ -15,3 +15,4 @@ Screenshot of the Application
 
 
 3) Deletion of Item
+![WhatsApp Image 2022-09-24 at 12 28 24 PM (4)](https://user-images.githubusercontent.com/84894767/192085091-f832aca6-1d2c-4366-9c38-d0c7b1c21e64.jpeg)
