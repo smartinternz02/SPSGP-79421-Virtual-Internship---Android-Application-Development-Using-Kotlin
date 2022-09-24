@@ -7,7 +7,7 @@ Screenshot of the Application
 1) Adding Grocery to the Application
 
 
-2) Grocery got added
+2) After addition
 
 
 3) Deletion of Item
