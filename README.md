@@ -11,6 +11,7 @@ Screenshot of the Application
 
 2) After addition
 ![WhatsApp Image 2022-09-24 at 12 28 24 PM (2)](https://user-images.githubusercontent.com/84894767/192084942-7f329066-56c7-41e0-a2a1-26a7ffedb754.jpeg)
+![WhatsApp Image 2022-09-24 at 12 28 24 PM (3)](https://user-images.githubusercontent.com/84894767/192085062-27f85bf2-acf3-4538-9f8f-1382757dc4f4.jpeg)
 
 
 3) Deletion of Item
